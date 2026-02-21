@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Let It Be (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-02-21T03:46:35.380508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let It Be (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_Let_It_Be_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let It Be (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_Let_It_Be_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let It Be (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Let_It_Be_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let It Be (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_Let_It_Be_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let It Be (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_Let_It_Be_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let It Be - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_Let_It_Be_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Let It Be - Remastered",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Let_It_Be_-_Remastered_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let It Be - Remastered 2015",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/08_Let_It_Be_-_Remastered_2015_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Let It Be - Remastered",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_Let_It_Be_-_Remastered_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let It Be (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Let_It_Be_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let It Be (remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Let_It_Be_(remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let It Be (Remastered 2015)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_Let_It_Be_(Remastered_2015)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let It Be (Remastered)",
+      "artist": "Ike & Tina Turner",
+      "has_synced": false,
+      "path": "select/13_Let_It_Be_(Remastered)_Ike_&_Tina_Turner.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Let It Be - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/14_Let_It_Be_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Let It Be (Remastered 2009)",
+      "artist": "Song, The Beatles",
+      "has_synced": true,
+      "path": "select/15_Let_It_Be_(Remastered_2009)_Song,_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Let It Be (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/16_Let_It_Be_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Let It Be [Remastered 2015]",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/17_Let_It_Be_[Remastered_2015]_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_Let_It_Be_The_Beatles.txt"
+    }
+  ]
+}
